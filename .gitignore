@@ -24,3 +24,10 @@ Thumbs.db
 # Logs and backups
 *.log
 *.bak
+
+# CMake build artifacts
+/build/
+/cmake-build-*/
+
+# Compiled executables
+*.out
